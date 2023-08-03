@@ -1,0 +1,9 @@
+{
+	"project_name": "My Project",
+	"project_name_ref": "my-project",
+	"context": "The context of my project.",
+	"description": "Short description.",
+	"author": "author's name",
+	"email": "myemail@gmail.com",
+	"repository_to_clone": "my github repository"
+}
